@@ -1,0 +1,3 @@
+provider: generic
+url: 'https://github.com/zoubichenshi/'
+updaterCacheDirName: my-project-updater
