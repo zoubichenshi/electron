@@ -1,8 +1,8 @@
-version: 0.0.1
+version: 0.0.2
 files:
-  - url: my-project Setup 0.0.1.exe
-    sha512: Td3LoqupDpE7/avkqjwBO8lwkUW7lFliFVkVDLnd050RhS05R31u364t72a3GcENwfJC9YLH10Gnmqqm9oFxEw==
-    size: 37402571
-path: my-project Setup 0.0.1.exe
-sha512: Td3LoqupDpE7/avkqjwBO8lwkUW7lFliFVkVDLnd050RhS05R31u364t72a3GcENwfJC9YLH10Gnmqqm9oFxEw==
-releaseDate: '2019-09-20T06:35:40.775Z'
+  - url: my-project Setup 0.0.2.exe
+    sha512: C8FWPuvqdNtC0x0Q/UIMiIMcTBcdLXVecb7V9yQrnIVA7WVuYobJi1oKXiwYp/nbRVnWgYqpT/UjpeR8ef2kvA==
+    size: 37402270
+path: my-project Setup 0.0.2.exe
+sha512: C8FWPuvqdNtC0x0Q/UIMiIMcTBcdLXVecb7V9yQrnIVA7WVuYobJi1oKXiwYp/nbRVnWgYqpT/UjpeR8ef2kvA==
+releaseDate: '2019-09-20T07:01:25.796Z'
